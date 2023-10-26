@@ -69,6 +69,11 @@ button {
     border-radius: 15px;
 }
 
+.todo__list ul {
+  width: 100%;
+  padding: 0;
+}
+
 .todo__title {
     margin-right: 1rem;
 }
